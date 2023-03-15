@@ -8,7 +8,8 @@ Looking for a permanent career change, I've been learning how to code on/off for
 
 *   🌍  I'm based in Toronto, Ontario
 *   ✉️  You can contact me at [jonledo.code@gmail.com](mailto:jonledo.code@gmail.com)
-*   🧠  I'm learning the MERN stack, completing some material over at Udemy.com
+*   💻  Check out my portfolio over at [https://jonledo.ca](https://jonledo.ca)
+*   🧠  I'm learning the MERN stack, completing some material over at Udemy.com
 *   🤝  I'm open to collaborating on interesting projects in the future!
 
 *   ### Skills 
